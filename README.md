@@ -25,4 +25,22 @@ Mac/Linux: Your terminal should already be open. Type command-t to open a new ta
 
 
 
-WORD2VEC Model a beginner approach
+# WORD2VEC Model a beginner approach
+
+##Why is Natural Language Processing difficult?
+ 
+Computers interact with Human through structured , clear , unambigous programming languages. Normally Natural Languages are unambigious as it is 100% dependent on the context in the word is mentioned.Words behave differently when used as noun or verb.There lies the relevance of NLP in the field of AI.This is what makes this field interesting and difficut in the field of AI.
+
+##What can be accomplished from NLP?
+Several tasks can be accomplished by enabling computers to “understand” human language. One live example is this software that I am using to check spellings and grammar in this article. Here are some tasks which are being done presently using NLP:
+    1. Spelling and grammar check
+    2. Finding synonyms and antonyms
+    3. Parsing information from documents, websites
+    4. Understanding meanings of sentences, documents and queries
+    5. Machine Translation (e.g Translate text from English to German)
+    6. Question Answering and doing tasks (e.g scheduling appointments etc.)
+    
+    
+  ##Representing text in natural language processing
+  How can we change the world of words into some representations which algorithms can understand. 
+  
